@@ -1,0 +1,11 @@
+name: ns-pay
+plugins:
+  - name: solidity
+    version: 0.7.0
+
+default_ecosystem: polygon
+
+polygon:
+  default_network: mumbai
+  mumbai:
+    default_provider: geth

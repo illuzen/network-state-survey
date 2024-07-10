@@ -1,0 +1,1 @@
+celery -A api.external.minter worker --loglevel=INFO

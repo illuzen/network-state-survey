@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Structured Individualist",
+        "image": "ipfs://QmQ3LHSPDVm3TpM2BGX5p3bwinDG8hknaHurQDHT5awMNf",
+        "token_id": 1,
+        "username": "metapriest",
+        "attributes": [
+            {
+                "trait_type": "I believe in following pre-defined rules and procedures to achieve personal success.",
+                "value": "Strongly Agree"
+            },
+            {
+                "trait_type": "Collaborative and creative solutions are essential for societal progress.",
+                "value": "Disagree"
+            },
+            {
+                "trait_type": "I support the idea of giving up some individual freedoms for the benefit of the group.",
+                "value": "Agree"
+            },
+            {
+                "trait_type": "It's important for communities to adapt and change creatively to stay cohesive.",
+                "value": "Strongly Agree"
+            },
+            {
+                "trait_type": "Collective goals are best achieved through adherence to established norms and traditions.",
+                "value": "Strongly Disagree"
+            },
+            {
+                "trait_type": "I believe in pooling diverse talents and perspectives for creative collaboration.",
+                "value": "Strongly Agree"
+            },
+            {
+                "trait_type": "I prefer working independently within a well-defined framework or system.",
+                "value": "Strongly Agree"
+            },
+            {
+                "trait_type": "Freedom to express individual creativity is more important than maintaining stability.",
+                "value": "Strongly Disagree"
+            },
+            {
+                "trait_type": "Personal goals should be pursued with a disciplined and organized approach.",
+                "value": "Strongly Agree"
+            },
+            {
+                "trait_type": "Structured group systems are important for maintaining order in society.",
+                "value": "Agree"
+            },
+            {
+                "trait_type": "I prefer to solve problems in unique ways, even if it means breaking from tradition.",
+                "value": "Disagree"
+            },
+            {
+                "trait_type": "Innovative thinking and independence are key to personal achievement.",
+                "value": "Strongly Agree"
+            }
+        ]
+    }
+]

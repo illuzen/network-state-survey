@@ -1,0 +1,74 @@
+[
+    {
+        "category": "Structured-Individualist",
+        "question": "I believe in following pre-defined rules and procedures to achieve personal success.",
+        "img": "./img/questions/0.png",
+        "ipfs": "QmXMb2gmzTp1jAdETuELGneFxKTHqc24daBAHqdZhRLok4"
+    },
+    {
+        "category": "Creative-Collectivist",
+        "question": "Collaborative and creative solutions are essential for societal progress.",
+        "img": "./img/questions/1.png",
+        "ipfs": "QmekuMkFLcNVc4hv2yE32RRWFuXn7AUqfmsjxtoWJS156C"
+    },
+    {
+        "category": "Structured-Collectivist",
+        "question": "I support the idea of giving up some individual freedoms for the benefit of the group.",
+        "img": "./img/questions/2.png",
+        "ipfs": "QmQSeqGJ1VJj4FVmX1hL6TTeP6y62kv98AebwYAoz4LYNP"
+    },
+    {
+        "category": "Creative-Collectivist",
+        "question": "It's important for communities to adapt and change creatively to stay cohesive.",
+        "img": "./img/questions/3.png",
+        "ipfs": "QmQZNDhxADK8JLKgxTTR1J9efyUawF53drTamUChqn1Gsz"
+    },
+    {
+        "category": "Structured-Collectivist",
+        "question": "Collective goals are best achieved through adherence to established norms and traditions.",
+        "img": "./img/questions/4.png",
+        "ipfs": "QmPc8EbNvg1CEbGEMeT1wo18dbBn17TTLu8XKS7eCko7gQ"
+    },
+    {
+        "category": "Creative-Collectivist",
+        "question": "I believe in pooling diverse talents and perspectives for creative collaboration.",
+        "img": "./img/questions/5.png",
+        "ipfs": "QmbnG72ikN8T8i3WAQUL2Bs86tBt1jbvMnwCa6S2v2peja"
+    },
+    {
+        "category": "Structured-Individualist",
+        "question": "I prefer working independently within a well-defined framework or system.",
+        "img": "./img/questions/6.png",
+        "ipfs": "QmXxcFq86yp5ABTQEj6L6FwDP72cFTPaFLQf1UXnePnoqn"
+    },
+    {
+        "category": "Creative-Individualist",
+        "question": "Freedom to express individual creativity is more important than maintaining stability.",
+        "img": "./img/questions/7.png",
+        "ipfs": "QmdsV9JsKvcnsi11f8rbE9dp7LT9FwVw7qvGwJz1e3wjnX"
+    },
+    {
+        "category": "Structured-Individualist",
+        "question": "Personal goals should be pursued with a disciplined and organized approach.",
+        "img": "./img/questions/8.png",
+        "ipfs": "QmdQErsMCYqvkFKWafsv3uHzNoyFkVUmSmeCBMB8bpLHst"
+    },
+    {
+        "category": "Structured-Collectivist",
+        "question": "Structured group systems are important for maintaining order in society.",
+        "img": "./img/questions/9.png",
+        "ipfs": "QmSvrx6BU2Hhi8uwdsoCFqNVoftmWWzyjSGxTK54Xi1FtW"
+    },
+    {
+        "category": "Creative-Individualist",
+        "question": "I prefer to solve problems in unique ways, even if it means breaking from tradition.",
+        "img": "./img/questions/10.png",
+        "ipfs": "QmYkFDWSQ3bh366Um4epGpoj9g2hgiMKrRTGPRv9NBCv1Z"
+    },
+    {
+        "category": "Creative-Individualist",
+        "question": "Innovative thinking and independence are key to personal achievement.",
+        "img": "./img/questions/11.png",
+        "ipfs": "QmbW7v644rZPCAxJ97CD3ikwu7F5L1T2bqb3jAAuSmdfLp"
+    }
+]

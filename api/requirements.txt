@@ -1,0 +1,10 @@
+eth-ape
+celery
+fastapi==0.109.2
+pydantic==2.6.1
+Requests==2.31.0
+uvicorn[standard]
+sqlalchemy
+pillow
+pandas>=2.0.0
+faker
